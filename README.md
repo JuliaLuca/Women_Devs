@@ -4,7 +4,8 @@ projeto para um futuro tcc
 ##O projeto segue em andamento e em pesquisa para meu TCC. 
 
 ###O projeto Women Devs é um curso voltado para mulheres de todas as idades que tem o interesse em seguir na area de programação.
-###Trat-se de um curo gratuito com a duração de 3 meses, com turmas de 30 pessoas para poder conseguir dar atenção para todas as alunas.
+
+###Trata-se de um curo gratuito com a duração de 3 meses, com turmas de 30 pessoas para poder conseguir dar atenção para todas as alunas.
 
 
 ###Por enquanto, o intuito do site é ter uma pagina inicial onde possui todas informações sobre o curso, uma parte com as diciplinas que serão abordadas e uma parte para cadastro. 
