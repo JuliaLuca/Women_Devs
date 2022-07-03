@@ -22,14 +22,14 @@
   },
   "homepage": "https://github.com/JuliaLuca/CodFont-Rosa#readme",
   "dependencies": {
-    "dotenv": "^16.0.0",
-    "ejs": "^3.1.7",
-    "express": "^4.18.0",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
     "pg": "^8.7.3",
     "sequelize": "^6.19.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.16"
-  }
-  
+    "nodemon": "^2.0.18"
+  },
+  "keywords": []
 }
