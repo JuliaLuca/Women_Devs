@@ -11,6 +11,5 @@ routers.get("/cadastro", getCadastro);
 
 routers.post("/add", postCadastro);
 
-
 export default routers;
 

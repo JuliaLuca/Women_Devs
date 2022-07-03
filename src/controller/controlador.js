@@ -14,5 +14,4 @@ export const postCadastro =  (req, res) => {
     res.send("Cadastro feito com sucesso!");
     message (`Parabéns ${nome}, sua inscrição foi realizada com sucesso! Um e-mail foi enviado para: ${email}`);
   res.redirect("/");
-  
 };
