@@ -13,14 +13,14 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JuliaLuca/CodFont-Rosa.git"
+    "url": "git+https://github.com/JuliaLuca/Women_Devs.git"
   },
   "author": "Julia Luca",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JuliaLuca/CodFont-Rosa/issues"
+    "url": "https://github.com/JuliaLuca/Women_Devs.git/issues"
   },
-  "homepage": "https://github.com/JuliaLuca/CodFont-Rosa#readme",
+  "homepage": "https://github.com/JuliaLuca/Women_Devs.git#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "dotenv": "^16.0.1",
